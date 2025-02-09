@@ -106,7 +106,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Julia Freire</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-juliafrsouzaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:juliafrsouzaa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-juliafrsouzaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliafrsouzaa@gmail.com)](mailto:juliafrsouzaa@gmail.com)
 
 ---
 
