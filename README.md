@@ -22,9 +22,11 @@
 ## 📄 Descrição do entregável
 
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
-- Widget (Pasta que armazena apenas o widget)
+- Componentes (Pasta que armazena todas as imagens do site)
 
-- ExternalPage (Widget em uma página externa)
+- index.html (Página que armazena toda a parte back-end do projeto)
+
+- style.html (Página que armazena toda a parte de front-end do projeto)
 
 ---
 <!-- ---------------------------------------------------------------------- -->
@@ -33,7 +35,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Projeto HTML - Site Zoo é um projeto criado como trabalho da faculdade ENIAC .
+Projeto HTML - Site Zoo é um projeto criado como trabalho da faculdade ENIAC no curso de Engenharia de Computação.
 
 O desafio proposto para este projeto era a criação de um site HTML do zoológico da cidade. Neste projeto, teríamos que usar das ferramentas apresentadas em sala de aula, 
 das linguagens HTML e CSS para deixar o site funcional e apresentável.
