@@ -82,7 +82,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-End**  ([CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)) 
 
-#### **Back-End**  ([HTML5]([https://html.org/](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
+#### **Back-End**  ([HTML](https://html.org/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)))
 
 <!-- ---------------------------------------------------------------------- -->
 
