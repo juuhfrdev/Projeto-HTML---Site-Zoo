@@ -51,17 +51,9 @@ das linguagens HTML e CSS para deixar o site funcional e apresentável.
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
-
-### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
-
----
+![TelaInicial](https://github.com/juuhfrdev/Projeto-HTML---Site-Zoo/blob/main/_assets/TelaInicialZoo.jpg)<br>
+![TelaAnimais](https://github.com/juuhfrdev/Projeto-HTML---Site-Zoo/blob/main/_assets/AnimaisZoo.jpg)<br>
+![Localizacao](https://github.com/juuhfrdev/Projeto-HTML---Site-Zoo/blob/main/_assets/LocalizacaoZoo.jpg)
 
 <!-- ---------------------------------------------------------------------- -->
 
@@ -69,16 +61,14 @@ das linguagens HTML e CSS para deixar o site funcional e apresentável.
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
-2 - Instalar a pasta node_modules (npm install)<br>
-3 - Rodar o projeto (npm start)
+2 - Abrir a página html (index.html)<br>
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Para rodar esse projeto em sua máquina basta apenas baixar todo o conteúdo e abrir o arquivo principal.
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ---
@@ -90,10 +80,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
+#### **Front-End**  ([CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)) 
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Styled-Component](https://styled-components.com/docs)**
+#### **Back-End**  ([HTML5]([https://html.org/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)))
 
 <!-- ---------------------------------------------------------------------- -->
 
