@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
-## 🦸 Autor
+## 🦸‍♀️ Autor
 
 <a href="https://www.linkedin.com/in/julia-freire-de-souza/">
 Julia Freire</a>
